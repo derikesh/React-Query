@@ -1,0 +1,97 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "batman",
+      "alterEgo": "brauce wayne"
+    },
+    {
+      "id": 2,
+      "name": "superman",
+      "alterEgo": "Danson mandson"
+    },
+    {
+      "id": 3,
+      "name": "spodorman",
+      "alterEgo": "peter porkor"
+    },
+    {
+      "name": "Iron Man",
+      "alterEgo": "Tony Stark",
+      "id": 4
+    },
+    {
+      "name": "fdsfsdf",
+      "alterEgo": "fsdfsdf",
+      "id": 5
+    },
+    {
+      "name": "cvxcvxcv",
+      "alterEgo": "cxvxcvxcv",
+      "id": 6
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "ram",
+      "alterEgo": "brauce wayne"
+    },
+    {
+      "id": 2,
+      "name": "shankar",
+      "alterEgo": "Danson mandson"
+    },
+    {
+      "id": 3,
+      "name": "harigoal",
+      "alterEgo": "peter porkor"
+    }
+  ],
+  "users": [
+    {
+      "id": "rikeshsherpa1@gmail.com",
+      "channelID": "rikesh"
+    }
+  ],
+  "channel": [
+    {
+      "id": "rikesh",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": "1",
+      "label": "red"
+    },
+    {
+      "id": "2",
+      "label": "yellow"
+    },
+    {
+      "id": "3",
+      "label": "green"
+    },
+    {
+      "id": "4",
+      "label": "dark"
+    },
+    {
+      "id": "5",
+      "label": "lime"
+    },
+    {
+      "id": "6",
+      "label": "cyan"
+    },
+    {
+      "id": "7",
+      "label": "blue"
+    }
+  ]
+}
